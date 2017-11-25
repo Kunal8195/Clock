@@ -1,0 +1,3 @@
+This is a C program which display a Clock(analog + digital). This Program works best when run with Turbo C compiler, can be executed on other IDE's but for this you have to install graphics and fill the linker field of your IDE. A image is attached which shows how clock looks when program executed successfully.
+In this i used c graphics library to execute the grahics related functions. Apart from these programming things there is also some trigonometry involved in calculating the right coordinates for position of time indicating numbers and for changing position of hands of clock.
+There is .exe file which can run directly on computer just by double clicking it. it this not works then you need to execute the .c file in turbo c comipler.
